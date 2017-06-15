@@ -25,3 +25,5 @@ Note for the final Chapter I make a chnage to the home.hbs view to show the code
 
 #Test
 This is a test push and build etc :-)
+
+#this is my second test. I added some code to the master branch
